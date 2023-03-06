@@ -25,7 +25,7 @@ And we will open up the forum for Q&A or discussion! Stay till the end – we ha
 
 
 
-### Guest of the month:
+#### Guest of the month:
 Alejandro Escobar 
 
 - Add office hour to your [calendar](https://calendar.google.com/calendar/ical/c_fc4682d5ff9e1068d60bbca08a9849437cec15da25d7eb59fcf9d37de9381990%40group.calendar.google.com/public/basic.ics). 
@@ -35,7 +35,7 @@ Alejandro Escobar
 <br> 
 <br> 
 
-## Upcoming office Hour 
+## Upcoming Office Hour 
 
 | Month | Guest | Agenda |
 | ----- | ----- | ------ |
@@ -73,7 +73,7 @@ xxx
 <br> 
 <br> 
 
-## Contact us
+## Contact Us
 We'd love your feedback. Please let us know what topics you want us to cover next.
 
 Share your opinion, thoughts or any comments in our very own #office-hour channel in 
