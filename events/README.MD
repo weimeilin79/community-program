@@ -1,5 +1,6 @@
 # **OFFICE HOUR** 
-
+[![Slack](https://img.shields.io/badge/slack-purple)](https://redpanda.com/slack)
+[![Twitter](https://img.shields.io/twitter/follow/redpandadata.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=redpandadata)
 
 <img src="images/super-panda-update.svg" width="30%" />
 
@@ -11,9 +12,8 @@ The office hour is a 45 mins-log live chat session for all things Redpanda. We w
 
 <img src="images/office-hour.png" width="100%" />
 <br> 
-<br> 
 
-## Office Hour - March 22nd, 2023 2pm EST, 11am PST. 7pm GMT
+## Office Hour - March 22nd, 2023 11am PST
 Do you have questions? We want to answer them! Welcome to our first Redpanda community office hour! We are super excistef to have Alejandro Escobar as our first guest, who will be sharing with us on:
 
 ...
@@ -71,3 +71,6 @@ xxx
 <br> 
 
 ## Contact us
+
+
+Join
