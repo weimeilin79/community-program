@@ -5,7 +5,7 @@
 	
 <img src="images/super-panda-update.svg" width="30%" />
 
-The office hour is a 45 mins-log live chat session for all things Redpanda. We will cover early feature, latest product updates, live demos and more. Keep up with what's new, grow your knowledge and skills. We'll also be doing live Q&A and occasionally we'll host quizzes game & contests! 
+The office hour is a 45 mins-log live chat session for all things Redpanda. We will cover early features, latest product updates, live demos and more. Keep up with what's new, grow your knowledge and skills. We'll also be doing live Q&A and occasionally we'll host quizzes, games & contests! 
 
 <br> 
 <br> 
@@ -15,7 +15,7 @@ The office hour is a 45 mins-log live chat session for all things Redpanda. We w
 <br> 
 
 ## Office Hour - March 22nd, 2023 11am PST
-Do you have questions? We want to answer them! Welcome to our first Redpanda community office hour! We are super excistef to have Alejandro Escobar as our first guest, who will be sharing with us on:
+Do you have questions? We want to answer them! Welcome to our first Redpanda community office hour! We are super excited to have Alejandro Escobar as our first guest, who will be sharing with us on:
 
 ...
 
