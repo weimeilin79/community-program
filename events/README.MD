@@ -25,7 +25,7 @@ And we will open up the forum for Q&A or discussion! Stay till the end – we ha
 
 
 
-### Guest speaker:
+### Guest of the month:
 Alejandro Escobar 
 
 - Add office hour to your [calendar](https://calendar.google.com/calendar/ical/c_fc4682d5ff9e1068d60bbca08a9849437cec15da25d7eb59fcf9d37de9381990%40group.calendar.google.com/public/basic.ics). 
