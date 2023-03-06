@@ -1,7 +1,8 @@
 # **OFFICE HOUR** 
 [![Slack](https://img.shields.io/badge/slack-purple)](https://redpanda.com/slack)
 [![Twitter](https://img.shields.io/twitter/follow/redpandadata.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=redpandadata)
-
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMrqRNX9Og3wFjuI-qMbKHw)](https://www.youtube.com/channel/UCMrqRNX9Og3wFjuI-qMbKHw)
+	
 <img src="images/super-panda-update.svg" width="30%" />
 
 The office hour is a 45 mins-log live chat session for all things Redpanda. We will cover early feature, latest product updates, live demos and more. Keep up with what's new, grow your knowledge and skills. We'll also be doing live Q&A and occasionally we'll host quizzes game & contests! 
@@ -18,8 +19,7 @@ Do you have questions? We want to answer them! Welcome to our first Redpanda com
 
 ...
 
-And we will open up for Q&A or discussion! Stay till the end, we have a small surprised for you!  
-
+And we will open up for Q&A or discussion! Stay till the end, we have a small surprised for you! See you there!
 
 
 ### Guest speaker:
@@ -71,6 +71,12 @@ xxx
 <br> 
 
 ## Contact us
+We'd love to hear your feedback and let us know what topics you want us to discuss next?
+
+Share your opinion, thoughts or any comments in our very own #office-hour channel in [Slack](https://redpanda.com/slack)!
 
 
-Join
+[![Slack](https://img.shields.io/badge/slack-purple)](https://redpanda.com/slack)
+[![Twitter](https://img.shields.io/twitter/follow/redpandadata.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=redpandadata) 
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMrqRNX9Og3wFjuI-qMbKHw)](https://www.youtube.com/channel/UCMrqRNX9Og3wFjuI-qMbKHw)
+	
