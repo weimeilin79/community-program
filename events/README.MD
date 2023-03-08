@@ -16,17 +16,19 @@ Our office hours are 45-minute-long (not quite an hour) live chat sessions that 
 
 ## Office Hours – March 22nd, 2023 11am PST
 
-Got questions? We can’t wait to answer them! Welcome to our first Redpanda community office hour! We are super excited to have as our first guest Alejandro Escobar, who will be share his thoughts on:
+Got questions? We can’t wait to answer them! Welcome to our first Redpanda community office hour! 
 
-
-...
+We are super excited to have as our first guest Alejandro Escobar, who will discuss the work on the Helm Chart for Redpanda. He & his team has been working on the project for about a year now and making steady improvements. He mentioned  "Deploying on kubernetes is hard, the difficulty we have been working hard to make available a helm chart, so you can get a production ready quickly to get you started." 
 
 And we will open up the forum for Q&A or discussion! Stay till the end – we have a little surprise for you! See you there!
 
 
 
 #### Guest of the month:
-Alejandro Escobar 
+**Alejandro Escobar** - Software Engineer at Redpanda, Started Recently
+Worked on Kubernetes since 2016 , fan of helm and cluster-api
+Previously worked for D2IQ for nearly 4 years
+On cluster creation and deploying day 2 Ops tooling 
 
 - Add office hour to your [calendar](https://calendar.google.com/calendar/ical/c_fc4682d5ff9e1068d60bbca08a9849437cec15da25d7eb59fcf9d37de9381990%40group.calendar.google.com/public/basic.ics). 
 - [TBD] Watch Now!
